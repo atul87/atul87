@@ -1,7 +1,7 @@
-# Atul Verma 👨‍💻
+# Atul  👨‍💻
 
 **AI/ML Engineer | Full-Stack Developer | Data Science Enthusiast**  
-📍 Lucknow/Kanpur, Uttar Pradesh | 🎓 B.Tech CSE (Allenhouse Institute of Technology, 2023-2027)
+📍 Kanpur, Uttar Pradesh | 🎓 B.Tech CSE (Allenhouse Institute of Technology, 2023-2027)
 
 ---
 
@@ -37,8 +37,6 @@ I'm a passionate Computer Science student specializing in **Artificial Intellige
 ### 🏆 Competitions & Awards
 - **2nd Runner-Up** – *Idea Sprint: From Concept to Clarity*  
   Project: **CivicConnect** – Crowdsourced Civic Issue Reporting & Resolution System
-- **9th Topper** – Naukri Code 360 College Monthly Badge (among 2,251 participants)
-- **Top 94%** – Beginner Rating in Weekend Contests on Naukri Code 360
 - **Rank ~32,300** – AINCAT 2025 (All India Naukri Campus Aptitude Test) among 100,000+ students
 
 ### 🎪 Active Participation
